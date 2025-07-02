@@ -1,4 +1,5 @@
-#📝 Task 6: ToDo App by Aanchal Srivastav
+**#📝 Task 6: ToDo App by Aanchal Srivastav**
+
 📌 Objective:
 Build a simple and interactive To-Do List application using Java Swing to perform basic task management operations like adding and deleting tasks.
 
